@@ -138,13 +138,6 @@ You should see the version string reflect your newly built kernel (e.g., `6.7.0-
 
 ## ⚠️ Disclaimer
 
-This kernel is for **educational and research use only**. Install it only in a virtual machine or test environment. Not recommended for production systems.
-
+This kernel is for **educational and research use only**. Install it only in a virtual machine or test environment. This was prt of our Operating Systems Course Project in University, not recommended for production systems. 
 ---
 
-## 📬 Contact
-
-Maintainer: **Abeera Mehtab**  
-GitHub: [@Abeera-Mehtab](https://github.com/Abeera-Mehtab)
-
----
